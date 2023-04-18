@@ -4,8 +4,8 @@ import (
 	"context"
 	"errors"
 
-	"github.com/cesaraugustomt/fullcyle/chatservice/internal/domain/entity"
-	"github.com/cesaraugustomt/fullcyle/chatservice/internal/domain/gateway"
+	"github.com/cesaraugustomt/fullcycle/chatservice/internal/domain/entity"
+	"github.com/cesaraugustomt/fullcycle/chatservice/internal/domain/gateway"
 	openai "github.com/sashabaranov/go-openai"
 )
 

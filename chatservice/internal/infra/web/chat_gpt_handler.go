@@ -5,7 +5,7 @@ import (
 	"io/ioutil"
 	"net/http"
 
-	"github.com/cesaraugustomt/fullcyle/chatservice/internal/usecase/chatcompletion"
+	"github.com/cesaraugustomt/fullcycle/chatservice/internal/usecase/chatcompletion"
 )
 
 // extenal data REST

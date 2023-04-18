@@ -6,8 +6,8 @@ import (
 	"errors"
 	"time"
 
-	"github.com/cesaraugustomt/fullcyle/chatservice/internal/domain/entity"
-	"github.com/cesaraugustomt/fullcyle/chatservice/internal/infra/db"
+	"github.com/cesaraugustomt/fullcycle/chatservice/internal/domain/entity"
+	"github.com/cesaraugustomt/fullcycle/chatservice/internal/infra/db"
 )
 
 type ChatRepositoryMySQL struct {
